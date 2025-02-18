@@ -23,14 +23,19 @@ A simple **To-Do List Application** built using the **MERN Stack**, featuring a 
    ```sh
    cd Todoapp-Backend
    ```
-2. To run server:  
+2. To run server:
+
+   ```sh
    npm run dev
+   ```
 
-   ### 🔹2️⃣ Frontend Setup
+### 🔹2️⃣ Frontend Setup
 
-3. Open the terminal and navigate to the backend folder:
+1. Open the terminal and navigate to the backend folder:
    ```sh
    cd TodoListApp
    ```
-4. To start :  
+2. To start :  
+   ```sh
    npm start
+   ```
